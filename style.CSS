@@ -1,0 +1,49 @@
+.box{
+    box-sizing: border-box;
+    text-align: center;
+    background-color: lightgray;
+    font-size: 20px;
+    padding: 30px;
+    vertical-align: center;
+    font: bold;
+}
+
+.list{
+    box-sizing: border-box;
+    text-align: center;
+    background-color: gainsboro;
+    padding: 5px;
+    border: 20px;
+    color: blue;
+    vertical-align: center;
+}
+
+.image{
+    box-sizing: border-box;
+    display:inline-block;
+    text-align: center;
+    background-color: lightgray;
+    border: 5px solid khaki;
+    margin: 0px;
+        
+}
+
+.Article{
+    
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: center;
+    width: 50%;
+    padding: 15px 20px;
+    height: auto;
+    border: 5px solid khaki;
+    background-color: lightgray;
+}
+
+.list2{
+    display: block;
+    box-sizing: border-box;
+    text-align: center;
+
+    
+}
